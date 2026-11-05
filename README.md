@@ -2,7 +2,7 @@
 
 Minimal public website for Gwyndor. Plain HTML and CSS with no build dependencies.
 
-The Onboard and Sign in links open the live app at https://customs.orizon.fun.
+The Onboard and Sign in links open the live app at https://tollkeeper.gwyndor.com.
 
 Preview with `python3 -m http.server 8080` then open http://localhost:8080.
 
